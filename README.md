@@ -1,2 +1,0 @@
-# gptguide
-learning github basics
